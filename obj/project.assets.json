@@ -8723,11 +8723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BusinessCLinic\\GenieLandLoardSolution\\NewLandLord\\Landlord_BL\\GenieLandLoardSolution\\GenieLandLoardSolution.csproj",
+      "projectUniqueName": "D:\\BusinessCLinic\\LandLordGitHub\\LandLord\\GenieLandLoardSolution.csproj",
       "projectName": "GenieLandLoardSolution",
-      "projectPath": "D:\\BusinessCLinic\\GenieLandLoardSolution\\NewLandLord\\Landlord_BL\\GenieLandLoardSolution\\GenieLandLoardSolution.csproj",
+      "projectPath": "D:\\BusinessCLinic\\LandLordGitHub\\LandLord\\GenieLandLoardSolution.csproj",
       "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
-      "outputPath": "D:\\BusinessCLinic\\GenieLandLoardSolution\\NewLandLord\\Landlord_BL\\GenieLandLoardSolution\\obj\\",
+      "outputPath": "D:\\BusinessCLinic\\LandLordGitHub\\LandLord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
