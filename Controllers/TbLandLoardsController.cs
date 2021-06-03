@@ -34,9 +34,9 @@ namespace GenieLandLoardSolution.Controllers
             var company =await _businessLayer.GetTbLandLoard(domain);
             if (company == null)
             {
-                return NotFound();
+                return Ok(null);
             }
-            return company;
+            return Ok(company);
             //TbLandLoard landLoardDb = new TbLandLoard();
             //List<TbLandLoard> ls = _context.TbLandLoards.ToList();
 
